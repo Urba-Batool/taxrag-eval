@@ -1,0 +1,13 @@
+pymupdf
+pytesseract
+pillow
+sentence-transformers
+faiss-cpu
+rank-bm25
+langchain-text-splitters
+fastapi
+uvicorn
+streamlit
+pandas
+python-dotenv
+google-genai
